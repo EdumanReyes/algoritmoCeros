@@ -1,0 +1,8 @@
+C:\Users\eduar\source\repos\algoritmoCeros\algoritmoCeros\bin\Debug\algoritmoCeros.exe.config
+C:\Users\eduar\source\repos\algoritmoCeros\algoritmoCeros\bin\Debug\algoritmoCeros.exe
+C:\Users\eduar\source\repos\algoritmoCeros\algoritmoCeros\bin\Debug\algoritmoCeros.pdb
+C:\Users\eduar\source\repos\algoritmoCeros\algoritmoCeros\obj\Debug\algoritmoCeros.csproj.AssemblyReference.cache
+C:\Users\eduar\source\repos\algoritmoCeros\algoritmoCeros\obj\Debug\algoritmoCeros.csproj.SuggestedBindingRedirects.cache
+C:\Users\eduar\source\repos\algoritmoCeros\algoritmoCeros\obj\Debug\algoritmoCeros.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\algoritmoCeros\algoritmoCeros\obj\Debug\algoritmoCeros.exe
+C:\Users\eduar\source\repos\algoritmoCeros\algoritmoCeros\obj\Debug\algoritmoCeros.pdb
